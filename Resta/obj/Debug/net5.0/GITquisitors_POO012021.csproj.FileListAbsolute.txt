@@ -1,0 +1,16 @@
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.exe
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.deps.json
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.runtimeconfig.json
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.runtimeconfig.dev.json
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.dll
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\ref\GITquisitors_POO012021.dll
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\bin\Debug\net5.0\GITquisitors_POO012021.pdb
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.csprojAssemblyReference.cache
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.AssemblyInfoInputs.cache
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.AssemblyInfo.cs
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.dll
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\ref\GITquisitors_POO012021.dll
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.pdb
+C:\Users\Hp user\Desktop\Proyects\GITquisitors_POO012021\Resta\obj\Debug\net5.0\GITquisitors_POO012021.genruntimeconfig.cache
