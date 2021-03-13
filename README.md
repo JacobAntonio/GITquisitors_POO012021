@@ -4,4 +4,6 @@ Guillermo Josué Galdamez Rivera 00084320
 
 Actividad opcional de Github Ciclo 01 2021, Programación Orientada a Objetos.
 
-
+Programa Original: Rama Master
+Modificación Multiplicación: Rama Multiplication
+Modificación Resta: Rama Subtraction
